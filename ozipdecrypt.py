@@ -15,7 +15,7 @@ import shutil
 import binascii
 from Crypto.Cipher import AES
 import zipfile
-from os.path import basename
+from os.C:\Users\aakas\Downloads\RMX1851EX_11_OTA_0190_all_kUXFHXJYeH9C.ozip import basename
 
 def main(file_arg):
     keys = [
